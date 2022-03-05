@@ -1,0 +1,9 @@
+name: CaptureTheSheep
+main: fr.themachupichu.cts.Main
+version: 1.0-SNAPSHOT
+api-version: 1.13
+load: POSTWORLD
+commands:
+  CaptureTheSheep:
+    aliases:
+      - cts
